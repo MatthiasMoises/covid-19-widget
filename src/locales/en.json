@@ -1,0 +1,63 @@
+{
+  "header": {
+    "title": "COVID-19 Risk Assessment"
+  },
+  "stepper": {
+    "introduction": "Introduction",
+    "sex": "Sex",
+    "age": "Age",
+    "symptoms": "Symptoms",
+    "results": "Results"
+  },
+  "service-agreement": {
+    "terms-of-use": "Terms of use",
+    "information": "Please read the terms of use before starting the consultation. Please note the following:",
+    "no-diagnosis-intro": "The result of the consultation does not constitute a diagnosis.",
+    "no-diagnosis-text": "The consultation is for informational purposes only and should under no circumstances be considered as an expert opinion from a qualified doctor. The consultation and its eventual results are based exclusively on the guidelines of the WHO and the CDC regarding COVID-19.",
+    "not-in-emergency-intro": "Do not use in an emergency.",
+    "not-in-emergency-text": "In the event of an severe emergency, please contact your local emergency number immediately.",
+    "data-protection-intro": "Your data is safe.",
+    "data-protection-text": "The information provided for the purpose of the consultation is anonymous and will not be passed on to anyone.",
+    "agreement": "I have read the terms of use and the privacy policy and accept them."
+  },
+  "language-selector": {
+    "german": "German",
+    "english": "English"
+  },
+  "select-gender": {
+    "your-gender": "What is your Sex",
+    "options": {
+      "male": "Male",
+      "female": "Female"
+    }
+  },
+  "select-age": {
+    "your-age": "Enter your age"
+  },
+  "interview": {
+    "intro": "Now please provide detailed information about your symptoms on the following pages",
+    "one-answer-each-row": "Choose an answer on each line.",
+    "one-answer": "Choose an answer."
+  },
+  "results": {
+    "recommendation": "Recommendation",
+    "alarming-symptoms": "Alarming symptoms"
+  },
+  "navigation": {
+    "previous": "Previous",
+    "next": "Next",
+    "restart": "Restart"
+  },
+  "footer": {
+    "powered-by": "Powered by",
+    "about-this-app": "About this App"
+  },
+  "about-this-app": {
+    "headline": "About this App",
+    "accept": "I accept"
+  },
+  "errors": {
+    "could-not-load-data": "Data could not load. Please try again later.",
+    "required": "Is required"
+  }
+}

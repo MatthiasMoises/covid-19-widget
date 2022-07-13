@@ -1,0 +1,63 @@
+{
+  "header": {
+    "title": "COVID-19 Symptom-Check"
+  },
+  "stepper": {
+    "introduction": "Einführung",
+    "sex": "Geschlecht",
+    "age": "Alter",
+    "symptoms": "Symptome",
+    "results": "Ergebnisse"
+  },
+  "service-agreement": {
+    "terms-of-use": "Nutzungsbedingungen",
+    "information": "Bitte lesen Sie die Nutzungsbedingungen, bevor Sie die Untersuchung in Anspruch nehmen. Bitte beachten Sie Folgendes:",
+    "no-diagnosis-intro": "Das Untersuchungsergebnis stellt keine Diagnose dar.",
+    "no-diagnosis-text": "Die Untersuchung dient nur zu Informationszwecken und sollte unter keinen Umständen als Gutachten durch einen qualifizierten Arzt angesehen werden. Die Analyse und ihre eventuellen Ergebnisse basieren ausschließlich auf den Richtlinien der WHO und der CDC in Bezug auf COVID-19.",
+    "not-in-emergency-intro": "Nicht in einem Notfall nutzen.",
+    "not-in-emergency-text": "Im Falle einer akuten Gesundheitsgefährdung wählen Sie umgehend den Notruf unter 112 oder die Nummer des ärztlichen Bereitschaftsdienstes unter 116 117!",
+    "data-protection-intro": "Ihre Daten sind sicher.",
+    "data-protection-text": "Die zum Zweck der Analyse zur Verfügung gestellten Informationen sind anonym und werden nicht weitergegeben.",
+    "agreement": "Ich habe die Nutzungsbedingungen und die Datenschutzerklärung gelesen und nehme sie an."
+  },
+  "language-selector": {
+    "german": "Deutsch",
+    "english": "Englisch"
+  },
+  "select-gender": {
+    "your-gender": "Welches Geschlecht haben Sie",
+    "options": {
+      "male": "Männlich",
+      "female": "Weiblich"
+    }
+  },
+  "select-age": {
+    "your-age": "Geben Sie Ihr Alter an"
+  },
+  "interview": {
+    "intro": "Machen Sie nun bitte auf den nachfolgenden Seiten detaillierte Angaben zu Ihren Symptomen",
+    "one-answer-each-row": "Wählen Sie eine Antwort in jeder Zeile.",
+    "one-answer": "Wählen Sie eine Antwort."
+  },
+  "results": {
+    "recommendation": "Empfehlung",
+    "alarming-symptoms": "Alarmierende Symptome"
+  },
+  "navigation": {
+    "previous": "Zurück",
+    "next": "Weiter",
+    "restart": "Neu starten"
+  },
+  "footer": {
+    "powered-by": "Bereitgestellt von",
+    "about-this-app": "Über diese App"
+  },
+  "about-this-app": {
+    "headline": "Über diese App",
+    "accept": "Verstanden"
+  },
+  "errors": {
+    "could-not-load-data": "Daten konnten nicht geladen werden. Bitte versuchen Sie es später noch einmmal.",
+    "required": "Erforderlich"
+  }
+}
